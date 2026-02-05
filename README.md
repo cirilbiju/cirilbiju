@@ -9,8 +9,7 @@
   <h3>Welcome to my coding playground! 🚀</h3>
 </div>
 🚀 About Me
-<details>
-  <summary>Click to learn more about me!</summary>
+<details><summary>Click to learn more about me!</summary>
 * 🔭 I’m currently working on [Project Name or Description]
 * 🌱 I’m currently learning [Technology or Skill]
 * 👯 I’m looking to collaborate on [Type of Projects]
