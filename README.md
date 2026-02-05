@@ -1,4 +1,17 @@
-<!-- Navigation Anchor --><div align="center"><a href="#-about-me">About Me</a> •<a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •<a href="#-github-stats">Stats</a> •<a href="#-connect">Contact</a></div><div align="center"><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D2196F3%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%2Bthere!%2BI%27m%2BCiril%2BBiju%3BSoftware%2BDeveloper%3BOpen%2BSource%2BEnthusiast%3BAlways%2BLearning" alt="Typing SVG" /></div><div align="center"><h3>Welcome to my coding playground! 🚀</h3></div>🚀 About Me<details><summary>Click to learn more about me!</summary>
+<!-- Navigation Anchor -->
+<div align="center">
+  <a href="#-about-me">About Me</a>•<a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •<a href="#-github-stats">Stats</a> •<a href="#-connect">Contact</a>
+</div>
+<div align="center">
+  <img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D2196F3%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%2Bthere!%2BI%27m%2BCiril%2BBiju%3BSoftware%2BDeveloper%3BOpen%2BSource%2BEnthusiast%3BAlways%2BLearning" alt="Typing SVG" />
+</div>
+<div align="center">
+  <h3>Welcome to my coding playground! 🚀</h3>
+</div>
+
+🚀 About Me
+<details>
+  <summary>Click to learn more about me!</summary>
 * 🔭 I’m currently working on [Project Name or Description]
 * 🌱 I’m currently learning [Technology or Skill]
 * 👯 I’m looking to collaborate on [Type of Projects]
