@@ -34,10 +34,10 @@
 
 <div>
 
-  
+ <!-- 
 📊 GitHub Stats
-<div align="center"><!-- GitHub Stats -->
-  <div>
+ <div align="center"><!-- GitHub Stats -->
+ <!-- <div>
     [![Ciril's GitHub stats](https://github-readme-stats.vercel.app/api?username=cirilbiju)](https://github.com/cirilbiju/github-readme-stats)
   </div>
   <a href="https://www.google.com/search?q=https://github.com/cirilbiju/github-readme-stats">
@@ -46,8 +46,8 @@
   <a href="https://www.google.com/search?q=https://github.com/cirilbiju/github-readme-stats">
     <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DCirilBiju%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" />
   </a><!-- Visitor Counter -->
-  <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DCirilBiju%26label%3DProfile%2520Views%26color%3Dblue%26style%3Dflat" alt="Profile Views" />
-</div>
+  <!--<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DCirilBiju%26label%3DProfile%2520Views%26color%3Dblue%26style%3Dflat" alt="Profile Views" />
+</div> -->
 
   
 ⚡ Random Dev Joke<!-- Updates automatically on refresh -->
