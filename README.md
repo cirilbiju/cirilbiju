@@ -10,11 +10,11 @@
 </div>
 🚀 About Me
 <details><summary>Click to learn more about me!</summary>
-* 🔭 I’m currently working on [Project Name or Description]
-* 🌱 I’m currently learning [Technology or Skill]
-* 👯 I’m looking to collaborate on [Type of Projects]
+  * 🔭 I’m currently working on [Project Name or Description]
+  * 🌱 I’m currently learning [Technology or Skill]
+<!-- * 👯 I’m looking to collaborate on [Type of Projects]
 * 💬 Ask me about [Topics you know well]
-* ⚡ Fun fact: [Insert a fun fact about yourself]
+* ⚡ Fun fact: [Insert a fun fact about yourself] -->
 </details>
 🛠️ Tech Stack
 <details open>
