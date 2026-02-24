@@ -12,8 +12,8 @@
 <details>
   <summary>Click to learn more about me!</summary>
   
-  * 🔭 I’m currently working on [Project Name or Description]
-  * 🌱 I’m currently learning [Technology or Skill]
+  * 🔭 I’m currently working on Automotive diagnostic tools and Bluetooth Stack.
+  * 🌱 I’m currently learning Advanced C++ and transitioning deeper into automotive software development.
 <!-- * 👯 I’m looking to collaborate on [Type of Projects]
 * 💬 Ask me about [Topics you know well]
 * ⚡ Fun fact: [Insert a fun fact about yourself] -->
