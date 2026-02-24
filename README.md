@@ -18,6 +18,16 @@
 * 💬 Ask me about [Topics you know well]
 * ⚡ Fun fact: [Insert a fun fact about yourself] -->
 </details>
+### 🛠️ Tech Stack
+
+> #### 🔽 Front-end
+> `React` `Vue.js` `Tailwind CSS` `JavaScript` `HTML5`
+
+> #### 🔽 Back-end
+> `Node.js` `Python` `Go` `PostgreSQL` `MongoDB`
+
+> #### 🔽 Tools
+> `Git` `Docker` `AWS` `Figma` `VS Code`
 🛠️ Tech Stack
 <details open>
   <summary>Front-end</summary><!-- Add your badges/icons here -->
