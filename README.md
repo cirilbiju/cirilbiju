@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 
-## Welcome to my coding playground! 🚀
+## Welcome to my Github Profile! 🚀
 </div>
 
 ### 🚀 About Me
