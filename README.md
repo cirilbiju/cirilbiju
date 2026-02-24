@@ -55,13 +55,13 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Dev Joke" />
 </div>
 🔗 Connect
-<div align="center"><a href="https://www.google.com/search?q=https://linkedin.com/in/your-profile">
+<div align="center">
+  <a href="https://www.google.com/search?q=https://linkedin.com/in/your-profile">
   <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-  <a href="https://www.google.com/search?q=https://twitter.com/your-handle">
-    <img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" />
-  </a><a href="https://www.google.com/search?q=https://your-website.com">
-    <img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-000000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" />
   </a>
+
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itsciril)
+  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/itsciril)
 </div>
 </div>
