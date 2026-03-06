@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 <details>
-  <summary>Click to learn more about me!</summary>
+  <summary>Click ME to know about me!</summary>
   
   * 🛠️ A Backend Developer at heart.
   * 🔭 I’m currently learning Advanced C++ and transitioning deeper into automotive software development.
